@@ -4,7 +4,7 @@
 
 ## Hi👋, I'm Fahim Chowdhury
 
-I am an enthusiastic Javascript-based web developer. I enjoy learning languages and frameworks, as well as work in react.js, node.js, express.js, MongoDB. I always focus on learning new technology. I am strategic goal-oriented and always work an end goal in mind. I was able to work on many projects during my learning time, which helped me acquire a broader range of skills.
+I'm a passionate Web Developer, and my area of expertise is front-end web development. I create relevant websites and web apps to make the internet a better place. I have gained a solid foundation in Frontend development. I am strategic and goal-oriented and always work with an end goal in mind, always focusing on learning new technology.
 
 <h2 align="left">Skills and Experience</h2>
     <p align="left">
